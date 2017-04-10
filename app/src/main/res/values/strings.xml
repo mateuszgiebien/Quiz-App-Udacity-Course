@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- QUESTION 1, Question text and answers -->
+    <string name="question_1">Question 1</string>
+    <string name="question_text_1">Who have won the NBA 2013 East Conference Finals?</string>
+    <string name="miami_heat">Miami Heat</string>
+    <string name="new_york_knicks">New York Knicks</string>
+    <string name="chicago_bulls">Chicago Bulls</string>
+
+    <!-- QUESTION 2, Question text and answers -->
+    <string name="question_2">Question 2</string>
+    <string name="question_text_2">Which player have never won the NBA title?</string>
+    <string name="lebron_james">LeBron James</string>
+    <string name="kevin_durant">Kevin Durant</string>
+    <string name="stephen_curry">Stephen Curry</string>
+
+    <!-- QUESTION 3, Question text and answers -->
+    <string name="question_3">Question 3</string>
+    <string name="question_text_3">Who have been called "Black Mamba"?</string>
+    <string name="zach_randolph">Zach Randolph</string>
+    <string name="kobe_bryant">Kobe Bryant</string>
+    <string name="dikembe_mutombo">Dikembe Mutombo</string>
+
+    <!-- QUESTION 4, Question text and answers -->
+    <string name="question_4">Question 4</string>
+    <string name="question_text_4">Who can you see on this picture?</string>
+    <string name="marcin_gortat">Marcin Gortat</string>
+    <string name="marco_belinelli">Marco Belinelli</string>
+    <string name="andrea_bargnani">Andrea Bargnani</string>
+    <string name="zaza_pachulia">Zaza Pachulia</string>
+
+    <!-- QUESTION 5, Question text and answers -->
+    <string name="question_5">Question 5</string>
+    <string name="question_text_5">What is the Ray Allen\'s real first name?</string>
+    <string name="ray_walter">Walter</string>
+    <string name="ray_dejean">DeJean</string>
+    <string name="ray_joey">Joey</string>
+
+    <!-- QUESTION 6, Question text and answers -->
+    <string name="question_6">Question 6</string>
+    <string name="question_text_6">Who was the 1959-60 NBA Scoring Champion? </string>
+    <string name="answer_question_6">Name Surname</string>
+
+    <!-- QUESTION 7, Question text and answers -->
+    <string name="question_7">Question 7</string>
+    <string name="question_text_7">Please write correct teams and final result from the NBA Finals 2016. (Write only team name, without city) </string>
+    <string name="answer_question_7">Winner - Looser 9-9</string>
+
+    <!-- Button which is checking and showing quiz score -->
+    <string name="check_answers_button">Check Answers</string>
+    <string name="show_quiz_score">Your score is: quizScore</string>
+
+</resources>

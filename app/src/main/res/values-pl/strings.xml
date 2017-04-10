@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="andrea_bargnani">Andrea Bargnani</string>
+    <string name="answer_question_6">Imię Nazwisko</string>
+    <string name="answer_question_7">Wygrany - Przegrany 9-9</string>
+    <string name="check_answers_button">Sprawdź Wynik</string>
+    <string name="chicago_bulls">Chicago Bulls</string>
+    <string name="dikembe_mutombo">Dikembe Mutombo</string>
+    <string name="kevin_durant">Kevin Durant</string>
+    <string name="kobe_bryant">Kobe Bryant</string>
+    <string name="lebron_james">LeBron James</string>
+    <string name="marcin_gortat">Marcin Gortat</string>
+    <string name="marco_belinelli">Marco Belinelli</string>
+    <string name="miami_heat">Miami Heat</string>
+    <string name="new_york_knicks">New York Knicks</string>
+    <string name="question_1">Pytanie 1</string>
+    <string name="question_2">Pytanie 2</string>
+    <string name="question_3">Pytanie 3</string>
+    <string name="question_4">Pytanie 4</string>
+    <string name="question_5">Pytanie 5</string>
+    <string name="question_6">Pytanie 6</string>
+    <string name="question_7">Pytanie 7</string>
+    <string name="question_text_1">Który zespół zwyciężył w Finale Konferencji Wschodniej w 2013 roku?</string>
+    <string name="question_text_2">Który zawodnik nigdy nie zdobył mistrzowskiego tytułu?</string>
+    <string name="question_text_3">Który z zawodników otrzymał pseudonim \"Black Mamba\"?</string>
+    <string name="question_text_4">Kogo widzisz na poniższej fotografii?</string>
+    <string name="question_text_5">Jakie jest prawdziwe imię Raya Allena?</string>
+    <string name="question_text_6">Kto został królem strzelców NBA w sezonie 1959-60?</string>
+    <string name="question_text_7">Wpisz poprawne zespoły oraz wynik finałów NBA z 2016 roku. (Wpisz tylko nazwy zespołów, bez miast)</string>
+    <string name="ray_dejean">DeJean</string>
+    <string name="ray_joey">Joey</string>
+    <string name="ray_walter">Walter</string>
+    <string name="show_quiz_score">"Twój wynik to: "</string>
+    <string name="stephen_curry">Stephen Curry</string>
+    <string name="zach_randolph">Zach Randolph</string>
+    <string name="zaza_pachulia">Zaza Pachulia</string>
+</resources>
